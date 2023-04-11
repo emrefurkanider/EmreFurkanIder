@@ -1,12 +1,12 @@
 Hi 👋 My name is Emre Furkan IDER
 =================================
 
-C# & .NET Core Dev.
+Swift & C# & .NET Core Dev.
 -------------------
 
-I look forward to working as a software developer. I graduated from Control and Automation in 2018. I learned C++, worked with HTML/CSS for a while, now I'm proficient in C# & Net.Core and keep learning..
+I look forward to working as a software developer. I graduated from Control and Automation in 2018. I learned C++, worked with HTML/CSS and C# & Net.Core for a while, now I'm proficient in Swift IOS, MacOS and keep learning..
 
-* 🌍  I'm based in Turkey
+* 🌍  I'm based in Turkey, Adana
 * ✉️  You can contact me at [emrefurkanider@gmail.com](mailto:emrefurkanider@gmail.com)
 
 ### Skills
